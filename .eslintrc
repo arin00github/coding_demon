@@ -1,0 +1,13 @@
+{
+    "parser": "babel-parser",
+    "parserOptions": {
+        "sourceType": "module",
+        "ecmaVersion": 2019
+    },
+    "plugins": ["prettier"],
+    "extends": [
+        "plugin:react/recommended",
+        "prettier",
+        "plugin:prettier/recommended"
+    ]
+}
