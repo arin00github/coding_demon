@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+#wrap{
+  width: 70%;
+  margin: 0 auto;
+}
